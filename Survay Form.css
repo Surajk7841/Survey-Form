@@ -1,0 +1,10 @@
+h1, #description{text-align: center;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: white;}
+.div-form{background-color: antiquewhite; height:1150px;width: 600px; margin: auto; border-radius: 30px; }
+p{margin-left: 40px; }
+#name, #email, #age{margin-left: 40px; border: 1px solid black; width: 500px;height:30px; border-radius: 20px;}
+select{margin-left: 40px; border: 1px solid black; width: 500px;height:30px; border-radius: 20px;}
+#definitely, #maybe, #notsure{margin-left: 40px;}
+#check{margin-left: 40px;}
+#comment{margin-left:40px; border:1px solid black;width:500px;height:50px; border-radius: 10px;}
+.submit{margin-left: 40%;}
+body{background-image: url(https://wallpaperaccess.com/full/4321838.jpg);background-size: cover;background-blend-mode: overlay;background-color: rgb(0,0,0,0.6); background-attachment: fixed ;}
